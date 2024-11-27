@@ -1,5 +1,0 @@
-[gd_scene format=3 uid="uid://ccfvjbm756lo8"]
-
-[node name="TestScene" type="Node2D"]
-
-[node name="MultiplayerSpawner" type="MultiplayerSpawner" parent="."]
